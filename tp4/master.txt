@@ -3,3 +3,5 @@ This line was created on root master
 This line will be modified on next master
 This line will be modified on bug fix branch
 This line will be modified on feature branch
+This line has been added on the bug fix branch
+
