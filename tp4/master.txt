@@ -1,0 +1,5 @@
+This file was originally created on master
+This line was created on root master
+This line will be modified on next master
+This line will be modified on bug fix branch
+This line will be modified on feature branch
