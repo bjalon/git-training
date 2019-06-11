@@ -1,9 +1,10 @@
-Question : Quel est la couleur du cheval blanc d'Henri IV ?
+﻿Question : Quelle est la couleur du cheval blanc d'Henri IV ?
 Réponse :
-Question : A quand remonte la dernièr fois que vous avez manger une glace ?
+Question : A quand remonte la dernière fois que vous avez mangé une glace ?
 Réponse :
-Question : Qui est le plus fort ? L'hipopotame ou l'éléphant ?
+Question : Qui est le plus fort ? L'hippopotame ou l'éléphant ?
 Réponse :
-Question : Si vous êtes né un jour paire, supprimée la ligne suivante.
-Viser la Lune Ça ne me fait pas peur Même à l'usure J'y crois encore et en cœur Des sacrifices S'il le faut j'en ferai J'en ai déjà fait Mais toujours le poing levé
-Question : Raconter vos vacances en 70 caractères (Plus, si vous êtes inspiré).
+Question : Si vous êtes né un jour pair, supprimez la ligne suivante.
+Viser la Lune ça ne me fait pas peur, même à l'usure j'y crois encore et en cœur, des sacrifices s'il le faut j'en ferai 
+J'en ai déjà fait Mais toujours le poing levé
+Question : Racontez vos vacances en 70 caractères (Plus, si vous êtes inspiré).
