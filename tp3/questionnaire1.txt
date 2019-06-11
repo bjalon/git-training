@@ -1,4 +1,5 @@
-﻿Question : Quelle est la couleur du cheval blanc d'Henri IV ?
+﻿master
+Question : Quelle est la couleur du cheval blanc d'Henri IV ?
 Réponse :
 Question : A quand remonte la dernière fois que vous avez mangé une glace ?
 Réponse :
